@@ -43,7 +43,7 @@ Mor ve Ötesi cover'ı, rock düzenleme. Strat ön planda.
 - Tarz: rock, elektro gitar (Strat) ön planda
 - Enstrümanlar: elektro gitar, bas, davul (Tahir Keleş?), vokal
 - Ton: orijinalden 1 tam ton (2 yarım ton) aşağı. Orijinal ___ → benim ___
-- Referans: orijinal kayıt (Güneşi Beklerken albümü, 2012)
+- Referans: orijinal kayıt (Güneşi Beklerken albümü, 2012) ve Semih'in Suno cover'ı
 
 ### Reels yapısı (~1:30)
 
@@ -54,6 +54,26 @@ Mor ve Ötesi cover'ı, rock düzenleme. Strat ön planda.
 | 0:35-1:00 | Nakarat             | |
 | 1:00-1:15 | Gitar solosu / köprü | Strat'ın öne çıktığı yer |
 | 1:15-1:30 | Son nakarat         | Güçlü bitiş |
+
+### Suno referansı analizi (otomatik tahmin, doğrulanacak)
+
+Kaynak: Semih'in Suno cover'ı (2:22, WAV; repoda değil). Akorlar ses analiziyle kabaca
+çıkarıldı. Distorsiyonlu gitardaki power chord'larda üçlü olmadığı için majör/minör
+ayrımı (E / Em gibi) güvenilir değil; F, Fm, F#m gibi tekil sonuçlar büyük ihtimalle hata.
+
+- Tempo: ~161,5 BPM, 4/4 (yarım zaman hissi varsa ~81)
+- Ton: E minör, akort A440
+- Her ölçü ~1,49 sn
+
+| Zaman     | Ölçü  | Bölüm (tahmin)          | Akorlar (tahmin)                   |
+|-----------|-------|-------------------------|------------------------------------|
+| 0:00-0:15 | 1-10  | Giriş (düşük enerji)    | Em Em Am Em / Em Em Am B           |
+| 0:15-0:59 | 11-40 | A                       | Em Em Am B (tekrar)                |
+| 0:59-1:23 | 41-56 | B (akorlar 2 ölçüde bir) | Am Am - B B - Em Em - Am Am - G G - B B - E Em |
+| 1:23-1:41 | 57-68 | C                       | Am B Em Em (tekrar)                |
+| 1:41-1:47 | 69-72 | Geçiş / kırılma         | B ? Em B                           |
+| 1:47-2:10 | 73-88 | C (en yüksek enerji)    | Am B Em Em / A B Em G              |
+| 2:10-2:22 | 89-96 | Çıkış (azalan)          | Am B Em Em                         |
 
 ## Çekim fikri
 
