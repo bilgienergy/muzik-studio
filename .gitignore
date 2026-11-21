@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+._*
+
+# Ableton Live
+Backup/
+*.asd
+Ableton Project Info/*.cfg
+
+# Geçici render ve dışa aktarımlar (son master'lar yayin/ altına LFS ile girer)
+projeler/**/Samples/Processed/Freeze/
+projeler/**/Samples/Processed/Consolidate/
+renders-temp/
+
+# Araçlar
+node_modules/
+__pycache__/
+.env
