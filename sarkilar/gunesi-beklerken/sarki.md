@@ -8,7 +8,7 @@ orijinal_album: Güneşi Beklerken (2012)
 orijinal_sure: "4:22"
 soz_muzik:            # albüm kredilerinden doğrula; paylaşım metnine yazılacak
 format: reels, ~1:30, dikey 9:16
-ton:
+ton:                  # orijinal ___ → bu versiyon 1 tam ton (2 yarım ton) aşağı
 bpm:
 olcu: 4/4
 sure:
@@ -42,7 +42,7 @@ Mor ve Ötesi cover'ı, rock düzenleme. Strat ön planda.
 
 - Tarz: rock, elektro gitar (Strat) ön planda
 - Enstrümanlar: elektro gitar, bas, davul (Tahir Keleş?), vokal
-- Ton: orijinal ton ___ / benim tonum ___
+- Ton: orijinalden 1 tam ton (2 yarım ton) aşağı. Orijinal ___ → benim ___
 - Referans: orijinal kayıt (Güneşi Beklerken albümü, 2012)
 
 ### Reels yapısı (~1:30)
@@ -74,3 +74,4 @@ Aranje, mix, master: Semih BİLGİ
 | Tarih | Versiyon | Not |
 |-------|----------|-----|
 | 2026-11-21 | v0.1 | Şarkı seçildi: rock düzenleme, ~1:30 reels |
+| 2026-11-21 | v0.1 | Ton kararı: 1 tam ton aşağı. Daha önce Suno ile deneme cover yapılmıştı; bu versiyon Ableton'da sıfırdan. |
